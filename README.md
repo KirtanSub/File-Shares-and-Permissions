@@ -1,9 +1,8 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+
 </p>
 
 <h1>File Shares and Permissions (Extension of Active Directory Lab)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial explores .<br />
 
 
 <h2>Video Demonstration</h2>
